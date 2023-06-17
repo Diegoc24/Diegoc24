@@ -1,5 +1,6 @@
 ### Hi there 👋
-![me](https://github.com/Diegoc24/Diegoc24/assets/114426784/dce85b78-9378-41ca-99bf-d1863742432e)
+![me](https://github.com/Diegoc24/Diegoc24/assets/114426784/21890cdc-4aad-433f-bae7-46962c8244af)
+
 <!--
 **Diegoc24/Diegoc24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
