@@ -1,4 +1,3 @@
-### Hi there 👋
 ![me](https://github.com/Diegoc24/Diegoc24/assets/114426784/21890cdc-4aad-433f-bae7-46962c8244af)
 
 <!--
