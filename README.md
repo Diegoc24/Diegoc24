@@ -15,7 +15,7 @@ const diegoCaruso = {
          js: ["Node", "Express", "Sequelize"],
          misc: ["Nodemailer", "Multer", "Cloudinary", "Axios", "Nodemon"]
       },
-      databases: ["SQLite", "mySQL", "postgreSQL"],
+      databases: ["SQLite", "mySQL", "postgreSQL", "mongoDB"],
     },
    challenge: "I want to keep learning and be the best",
   moreAboutMe: ["addicted to coffee", "passionate about technology", "i love cars"]
